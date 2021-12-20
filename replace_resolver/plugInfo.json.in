@@ -1,0 +1,17 @@
+{
+    "Plugins": [
+        {
+            "Info": {
+                "Types" : {
+                    "ReplaceResolver" : {
+                        "bases": [ "ArResolver" ]
+                    }
+                }
+            },
+            "LibraryPath": "../@libraryName@",
+            "Root": "..",
+            "Name": "ReplaceResolver",
+            "Type": "library"
+        }
+    ]
+}

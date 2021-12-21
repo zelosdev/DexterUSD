@@ -1,0 +1,10 @@
+MODEL_TYPE= 'model'
+LIDAR_TYPE= 'lidar'
+SET_TYPE  = 'set'
+LGT_TYPE  = 'lighting'
+RIG_TYPE  = 'rig'
+ANI_TYPE  = 'ani'
+GROOM_TYPE = 'groom'
+CAM_TYPE  = 'cam'
+AGENT_TYPE = "agent"
+CLIP_TYPE = 'clip'

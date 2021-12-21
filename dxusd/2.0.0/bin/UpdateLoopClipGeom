@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python ${REZ_DXUSD_ROOT}/scripts/DXUSD/Tools/UpdateLoopClipGeom.py ${1}

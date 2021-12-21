@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/backstage/dcc/DCC rez-env dxusd usd_core python-2 pyside2 pyalembic -- UpdateLoopClipGeom ${PWD}
